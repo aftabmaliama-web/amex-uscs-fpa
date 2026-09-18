@@ -1,0 +1,35 @@
+bridge,component,impact,display_order,classification
+Revenue,Plan,34469.0,0,MODEL_OUTPUT
+Revenue,Account volume,150.0,1,MODEL_OUTPUT
+Revenue,Spend per account,-70.0,2,MODEL_OUTPUT
+Revenue,G&S / T&E mix,40.0,3,MODEL_OUTPUT
+Revenue,Monetization,-60.0,4,MODEL_OUTPUT
+Revenue,Lending,88.0,5,MODEL_OUTPUT
+Revenue,Fees / other,197.0,6,MODEL_OUTPUT
+Revenue,Actual,34814.0,99,MODEL_OUTPUT
+Provision,Plan,3100.0,0,MODEL_OUTPUT
+Provision,Loan balance,100.0,1,MODEL_OUTPUT
+Provision,Loss rate / reserve overlay,-233.0,2,MODEL_OUTPUT
+Provision,Actual,2967.0,99,MODEL_OUTPUT
+Rewards / Benefits,Plan,15976.8,0,MODEL_OUTPUT
+Rewards / Benefits,Billed business,-70.0,1,MODEL_OUTPUT
+Rewards / Benefits,Rewards / benefit rate,650.2000000000007,2,MODEL_OUTPUT
+Rewards / Benefits,Actual,16557.0,99,MODEL_OUTPUT
+Marketing,Plan,3180.0,0,MODEL_OUTPUT
+Marketing,Acquisition volume,60.0,1,MODEL_OUTPUT
+Marketing,CAC,40.0,2,MODEL_OUTPUT
+Marketing,Channel mix,-30.0,3,MODEL_OUTPUT
+Marketing,Timing,-63.0,4,MODEL_OUTPUT
+Marketing,Actual,3187.0,99,MODEL_OUTPUT
+Personnel / OpEx,Plan,5012.3,0,MODEL_OUTPUT
+Personnel / OpEx,Headcount,85.0,1,MODEL_OUTPUT
+Personnel / OpEx,Compensation,110.0,2,MODEL_OUTPUT
+Personnel / OpEx,Hiring / other timing,85.69999999999982,3,MODEL_OUTPUT
+Personnel / OpEx,Actual,5293.0,99,MODEL_OUTPUT
+Pretax income,Plan,7199.9000000000015,0,MODEL_OUTPUT
+Pretax income,Revenue,345.0,1,MODEL_OUTPUT
+Pretax income,Credit,133.0,2,MODEL_OUTPUT
+Pretax income,Rewards / benefits,-580.2000000000007,3,MODEL_OUTPUT
+Pretax income,Marketing,-7.0,4,MODEL_OUTPUT
+Pretax income,Personnel / OpEx,-280.6999999999998,5,MODEL_OUTPUT
+Pretax income,Actual,6810.0,99,MODEL_OUTPUT

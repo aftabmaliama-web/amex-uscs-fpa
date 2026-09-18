@@ -1,0 +1,31 @@
+scenario_id,scenario,case,fy_revenue_impact,expense_or_provision_impact,pti_impact,resulting_pti,management_recommendation,classification
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT

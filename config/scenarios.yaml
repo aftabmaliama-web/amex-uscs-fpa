@@ -1,0 +1,61 @@
+scenarios:
+  - id: S01
+    name: Consumer Spend Slowdown & Mix Shift
+    primary_driver: billed_business
+    low: -0.02
+    base: 0.00
+    high_stress: -0.06
+  - id: S02
+    name: Customer Acquisition Investment
+    primary_driver: marketing
+    low: -0.10
+    base: 0.00
+    high_stress: 0.15
+  - id: S03
+    name: Credit Deterioration
+    primary_driver: provision
+    low: -0.10
+    base: 0.00
+    high_stress: 0.25
+  - id: S04
+    name: Rewards & Card Member Benefit Inflation
+    primary_driver: rewards_rate
+    low: -0.02
+    base: 0.00
+    high_stress: 0.05
+  - id: S05
+    name: Headcount & OpEx Productivity
+    primary_driver: salaries_other
+    low: -0.04
+    base: 0.00
+    high_stress: 0.06
+  - id: S06
+    name: Lending Growth & Interest Rate / Yield
+    primary_driver: net_interest_income
+    low: -0.04
+    base: 0.00
+    high_stress: 0.05
+  - id: S07
+    name: Cobrand / Partnership Economics
+    primary_driver: partner_economics
+    low: -0.03
+    base: 0.00
+    high_stress: 0.04
+  - id: S08
+    name: Retention & Card Member Attrition
+    primary_driver: attrition
+    low: -0.01
+    base: 0.00
+    high_stress: -0.04
+  - id: S09
+    name: New Card / Membership Benefit Launch
+    primary_driver: product_launch
+    low: -0.02
+    base: 0.01
+    high_stress: 0.03
+  - id: S10
+    name: Automation & Cost Transformation
+    primary_driver: transformation
+    low: 0.00
+    base: 0.02
+    high_stress: 0.05

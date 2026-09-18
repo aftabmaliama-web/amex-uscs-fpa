@@ -1,0 +1,7 @@
+id,business_driver,description,risk_or_opportunity,probability,low_impact,expected_impact,high_impact,timing,owner,p_and_l_line,status,management_action,classification
+R01,Spend,Affluent spend decelerates in H2,Risk,0.35,-600,-350,-150,H2 2026,Revenue FP&A,Revenue,Open,Gate acquisition growth to spend quality,SYNTHETIC_ASSUMPTION
+R02,Rewards,Benefit and redemption costs exceed forecast,Risk,0.45,-420,-250,-100,H2 2026,Membership Finance,Rewards,Open,Renegotiate partner offsets and pace benefit rollout,SYNTHETIC_ASSUMPTION
+R03,Credit,Loss rates rise from the Q2 2026 level,Risk,0.3,-500,-280,-120,H2 2026,Credit Finance,Provision,Monitoring,Tighten marginal growth and update economic overlay,SYNTHETIC_ASSUMPTION
+O01,Credit,Lower losses persist,Opportunity,0.55,120,260,420,H2 2026,Credit Finance,Provision,Monitoring,Keep outside booked forecast until Q3 evidence,SYNTHETIC_ASSUMPTION
+O02,Fees,Premium refresh lifts fee-paying accounts,Opportunity,0.45,90,190,320,H2 2026,Portfolio Finance,Revenue,Open,"Track activation, retention and first-year contribution",SYNTHETIC_ASSUMPTION
+O03,Productivity,Automation benefits arrive earlier,Opportunity,0.35,80,180,300,Q4 2026,Technology Finance,OpEx,Open,Release savings only after service metrics hold,SYNTHETIC_ASSUMPTION

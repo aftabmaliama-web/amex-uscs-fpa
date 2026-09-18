@@ -1,0 +1,59 @@
+project:
+  title: "American Express U.S. Consumer Services FP&A"
+  aop_cutoff_date: "2025-01-24"
+  currency: "USD millions unless noted"
+  monthly_actual_policy: "Synthetic management allocation that reconciles to public quarterly totals"
+
+classifications:
+  public_actual: PUBLIC_ACTUAL
+  public_guidance: PUBLIC_GUIDANCE
+  derived_public: DERIVED_PUBLIC
+  synthetic_allocated: SYNTHETIC_ALLOCATED
+  synthetic_assumption: SYNTHETIC_ASSUMPTION
+  model_output: MODEL_OUTPUT
+
+2025_aop:
+  billed_business_growth: 0.085
+  non_interest_revenue_growth: 0.095
+  net_interest_income_growth: 0.100
+  provision_millions: 3100
+  rewards_services_growth: 0.115
+  marketing_millions: 3180
+  salaries_other_growth: 0.080
+  rationale: "Calibrated to FY2024 USCS trends and American Express 2025 company revenue guidance of 8%-10%."
+
+2026_aop:
+  billed_business_growth: 0.090
+  total_revenue_growth: 0.100
+  provision_millions: 3100
+  rewards_services_millions: 18250
+  marketing_millions: 3450
+  salaries_other_millions: 5650
+  rationale: "Calibrated to FY2025 USCS actuals and American Express FY2026 company revenue guidance of 9%-10%."
+
+2026_q2_latest_estimate:
+  q3_revenue_growth: 0.095
+  q4_revenue_growth: 0.095
+  q3_provision_millions: 700
+  q4_provision_millions: 740
+  q3_rewards_services_millions: 4550
+  q4_rewards_services_millions: 5000
+  q3_marketing_millions: 860
+  q4_marketing_millions: 850
+  q3_salaries_other_millions: 1450
+  q4_salaries_other_millions: 1500
+
+headcount:
+  opening_2025: 9050
+  opening_2026: 9270
+  benefit_load: 0.28
+  vacancy_rate: 0.045
+  2025_comp_inflation: 0.035
+  2026_comp_inflation: 0.040
+
+marketing:
+  channels:
+    Direct Mail: {share: 0.25, cac: 420, first_year_contribution: 620}
+    Paid Search: {share: 0.22, cac: 360, first_year_contribution: 590}
+    Affiliate / Partner: {share: 0.28, cac: 510, first_year_contribution: 780}
+    Digital / Paid Media: {share: 0.25, cac: 390, first_year_contribution: 610}

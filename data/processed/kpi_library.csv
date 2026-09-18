@@ -1,0 +1,33 @@
+category,kpi,classification
+Financial,Revenue,MODEL_OUTPUT
+Financial,Revenue growth,MODEL_OUTPUT
+Financial,NII,MODEL_OUTPUT
+Financial,Provision,MODEL_OUTPUT
+Financial,Expense growth,MODEL_OUTPUT
+Financial,PTI,MODEL_OUTPUT
+Financial,PTI margin,MODEL_OUTPUT
+Customer / Spend,Billed Business,MODEL_OUTPUT
+Customer / Spend,Spend per account,MODEL_OUTPUT
+Customer / Spend,Cards / accounts,MODEL_OUTPUT
+Customer / Spend,G&S growth,MODEL_OUTPUT
+Customer / Spend,T&E growth,MODEL_OUTPUT
+Lending,Card Member loans,MODEL_OUTPUT
+Lending,Loan growth,MODEL_OUTPUT
+Lending,Yield,MODEL_OUTPUT
+Lending,Delinquency,MODEL_OUTPUT
+Lending,Write-off rate,MODEL_OUTPUT
+Marketing,Marketing spend,MODEL_OUTPUT
+Marketing,New accounts,MODEL_OUTPUT
+Marketing,CAC,MODEL_OUTPUT
+Marketing,Conversion,MODEL_OUTPUT
+Marketing,First-year contribution,MODEL_OUTPUT
+Marketing,Payback,MODEL_OUTPUT
+Membership,Rewards cost / billed business,MODEL_OUTPUT
+Membership,Benefit cost / account,MODEL_OUTPUT
+Membership,Retention rate proxy,MODEL_OUTPUT
+Workforce,Headcount,MODEL_OUTPUT
+Workforce,Hires,MODEL_OUTPUT
+Workforce,Attrition,MODEL_OUTPUT
+Workforce,Vacancies,MODEL_OUTPUT
+Workforce,Loaded cost per employee,MODEL_OUTPUT
+Workforce,OpEx per employee,MODEL_OUTPUT

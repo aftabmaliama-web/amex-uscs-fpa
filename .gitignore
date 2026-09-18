@@ -1,0 +1,6 @@
+tmp/
+node_modules/
+.chart-data-*/
+*.inspect.ndjson
+__pycache__/
+*.pyc

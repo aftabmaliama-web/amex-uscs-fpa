@@ -1,0 +1,40 @@
+{
+  "aop_2025": {
+    "non_interest_revenue": 22050.0,
+    "net_interest_income": 12419.0,
+    "total_revenue": 34469.0,
+    "provision": 3100,
+    "rewards_services": 15976.8,
+    "marketing": 3180,
+    "salaries_other": 5012.3,
+    "total_expenses": 24169.1,
+    "pretax_income": 7199.9000000000015,
+    "billed_business": 710.5
+  },
+  "forecast_2026": [
+    {
+      "vintage": "2026 AOP",
+      "as_of_date": "2026-01-30",
+      "total_revenue": 38295.4,
+      "provision": 3100,
+      "rewards_services": 18250,
+      "marketing": 3450,
+      "salaries_other": 5650,
+      "total_expenses": 27350,
+      "pretax_income": 7845.4,
+      "classification": "MODEL_OUTPUT"
+    },
+    {
+      "vintage": "Q2 2026 LE",
+      "as_of_date": "2026-07-17",
+      "total_revenue": 38370.1,
+      "provision": 2569,
+      "rewards_services": 18900,
+      "marketing": 3287,
+      "salaries_other": 5720,
+      "total_expenses": 27907,
+      "pretax_income": 7894.1,
+      "classification": "MODEL_OUTPUT"
+    }
+  ]
+}

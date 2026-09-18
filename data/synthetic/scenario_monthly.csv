@@ -1,0 +1,361 @@
+scenario_id,scenario,case,fy_revenue_impact,expense_or_provision_impact,pti_impact,resulting_pti,management_recommendation,classification,month,monthly_pti_impact
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-01-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-02-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-03-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-04-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-05-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-06-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-07-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-08-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-09-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-10-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-11-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Low,-742.5,-286.0,-456.5,7437.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-12-01,-38.041666666666664
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-01-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-02-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-03-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-04-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-05-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-06-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-07-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-08-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-09-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-10-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-11-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,Base,-1350.0,-520.0,-830.0,7064.1,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-12-01,-69.16666666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-01-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-02-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-03-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-04-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-05-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-06-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-07-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-08-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-09-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-10-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-11-01,-100.29166666666667
+S01,Consumer Spend Slowdown & Mix Shift,High / Stress,-1957.5,-754.0,-1203.5,6690.6,Slow acquisition if spend per account weakens for two quarters.,MODEL_OUTPUT,2026-12-01,-100.29166666666667
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-01-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-02-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-03-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-04-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-05-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-06-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-07-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-08-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-09-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-10-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-11-01,-4.583333333333333
+S02,Customer Acquisition Investment,Low,231.0,286.0,-55.0,7839.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-12-01,-4.583333333333333
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-01-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-02-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-03-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-04-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-05-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-06-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-07-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-08-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-09-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-10-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-11-01,-8.333333333333334
+S02,Customer Acquisition Investment,Base,420.0,520.0,-100.0,7794.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-12-01,-8.333333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-01-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-02-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-03-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-04-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-05-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-06-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-07-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-08-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-09-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-10-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-11-01,-12.083333333333334
+S02,Customer Acquisition Investment,High / Stress,609.0,754.0,-145.0,7749.1,Fund only channels with contribution per marketing dollar above 1.4x.,MODEL_OUTPUT,2026-12-01,-12.083333333333334
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-01-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-02-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-03-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-04-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-05-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-06-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-07-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-08-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-09-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-10-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-11-01,-29.791666666666668
+S03,Credit Deterioration,Low,0.0,357.5,-357.5,7536.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-12-01,-29.791666666666668
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-01-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-02-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-03-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-04-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-05-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-06-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-07-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-08-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-09-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-10-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-11-01,-54.166666666666664
+S03,Credit Deterioration,Base,0.0,650.0,-650.0,7244.1,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-12-01,-54.166666666666664
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-01-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-02-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-03-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-04-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-05-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-06-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-07-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-08-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-09-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-10-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-11-01,-78.54166666666667
+S03,Credit Deterioration,High / Stress,0.0,942.5,-942.5,6951.6,Tighten marginal lending where provision-adjusted contribution falls below hurdle.,MODEL_OUTPUT,2026-12-01,-78.54166666666667
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-01-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-02-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-03-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-04-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-05-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-06-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-07-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-08-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-09-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-10-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-11-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Low,99.0,297.0,-198.0,7696.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-12-01,-16.5
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-01-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-02-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-03-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-04-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-05-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-06-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-07-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-08-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-09-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-10-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-11-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,Base,180.0,540.0,-360.0,7534.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-12-01,-30.0
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-01-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-02-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-03-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-04-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-05-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-06-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-07-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-08-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-09-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-10-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-11-01,-43.5
+S04,Rewards & Card Member Benefit Inflation,High / Stress,261.0,783.0,-522.0,7372.1,Require measurable engagement lift before expanding benefits.,MODEL_OUTPUT,2026-12-01,-43.5
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-01-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-02-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-03-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-04-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-05-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-06-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-07-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-08-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-09-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-10-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-11-01,15.125
+S05,Headcount & OpEx Productivity,Low,-49.5,-231.0,181.5,8075.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-12-01,15.125
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-01-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-02-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-03-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-04-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-05-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-06-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-07-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-08-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-09-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-10-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-11-01,27.5
+S05,Headcount & OpEx Productivity,Base,-90.0,-420.0,330.0,8224.1,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-12-01,27.5
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-01-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-02-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-03-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-04-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-05-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-06-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-07-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-08-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-09-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-10-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-11-01,39.875
+S05,Headcount & OpEx Productivity,High / Stress,-130.5,-609.0,478.5,8372.6,Protect service capacity while pausing lower-priority hiring and reducing vendors.,MODEL_OUTPUT,2026-12-01,39.875
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-01-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-02-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-03-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-04-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-05-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-06-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-07-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-08-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-09-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-10-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-11-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Low,286.0,115.5,170.5,8064.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-12-01,14.208333333333334
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-01-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-02-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-03-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-04-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-05-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-06-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-07-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-08-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-09-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-10-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-11-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,Base,520.0,210.0,310.0,8204.1,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-12-01,25.833333333333332
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-01-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-02-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-03-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-04-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-05-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-06-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-07-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-08-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-09-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-10-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-11-01,37.458333333333336
+S06,Lending Growth & Interest Rate / Yield,High / Stress,754.0,304.5,449.5,8343.6,Favor risk-adjusted loan growth over pure balance growth.,MODEL_OUTPUT,2026-12-01,37.458333333333336
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-01-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-02-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-03-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-04-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-05-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-06-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-07-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-08-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-09-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-10-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-11-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Low,143.0,115.5,27.5,7921.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-12-01,2.2916666666666665
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-01-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-02-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-03-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-04-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-05-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-06-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-07-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-08-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-09-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-10-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-11-01,4.166666666666667
+S07,Cobrand / Partnership Economics,Base,260.0,210.0,50.0,7944.1,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-12-01,4.166666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-01-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-02-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-03-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-04-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-05-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-06-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-07-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-08-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-09-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-10-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-11-01,6.041666666666667
+S07,Cobrand / Partnership Economics,High / Stress,377.0,304.5,72.5,7966.6,Renew only if partner funding offsets benefit and acquisition inflation.,MODEL_OUTPUT,2026-12-01,6.041666666666667
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-01-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-02-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-03-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-04-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-05-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-06-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-07-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-08-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-09-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-10-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-11-01,5.5
+S08,Retention & Card Member Attrition,Low,170.5,104.5,66.0,7960.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-12-01,5.5
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-01-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-02-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-03-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-04-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-05-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-06-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-07-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-08-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-09-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-10-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-11-01,10.0
+S08,Retention & Card Member Attrition,Base,310.0,190.0,120.0,8014.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-12-01,10.0
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-01-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-02-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-03-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-04-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-05-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-06-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-07-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-08-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-09-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-10-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-11-01,14.5
+S08,Retention & Card Member Attrition,High / Stress,449.5,275.5,174.0,8068.1,Target offers to high-contribution accounts and cap cost at preserved contribution.,MODEL_OUTPUT,2026-12-01,14.5
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-01-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-02-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-03-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-04-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-05-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-06-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-07-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-08-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-09-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-10-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-11-01,-4.125
+S09,New Card / Membership Benefit Launch,Low,209.0,258.5,-49.5,7844.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-12-01,-4.125
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-01-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-02-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-03-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-04-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-05-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-06-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-07-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-08-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-09-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-10-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-11-01,-7.5
+S09,New Card / Membership Benefit Launch,Base,380.0,470.0,-90.0,7804.1,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-12-01,-7.5
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-01-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-02-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-03-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-04-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-05-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-06-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-07-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-08-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-09-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-10-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-11-01,-10.875
+S09,New Card / Membership Benefit Launch,High / Stress,551.0,681.5,-130.5,7763.6,Stage launch spending against account and spend milestones.,MODEL_OUTPUT,2026-12-01,-10.875
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-01-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-02-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-03-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-04-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-05-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-06-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-07-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-08-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-09-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-10-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-11-01,16.041666666666668
+S10,Automation & Cost Transformation,Low,22.0,-170.5,192.5,8086.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-12-01,16.041666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-01-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-02-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-03-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-04-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-05-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-06-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-07-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-08-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-09-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-10-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-11-01,29.166666666666668
+S10,Automation & Cost Transformation,Base,40.0,-310.0,350.0,8244.1,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-12-01,29.166666666666668
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-01-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-02-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-03-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-04-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-05-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-06-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-07-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-08-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-09-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-10-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-11-01,42.291666666666664
+S10,Automation & Cost Transformation,High / Stress,58.0,-449.5,507.5,8401.6,Release funding by phase after adoption and service metrics hold.,MODEL_OUTPUT,2026-12-01,42.291666666666664

@@ -1,0 +1,13 @@
+Revenue := SUM(fact_actual[total_revenue])
+Plan Revenue := SUM(fact_budget[total_revenue])
+Revenue Variance := [Revenue] - [Plan Revenue]
+Revenue Variance % := DIVIDE([Revenue Variance], [Plan Revenue])
+Pretax Income := SUM(fact_actual[pretax_income])
+Plan Pretax Income := SUM(fact_budget[pretax_income])
+PTI Variance := [Pretax Income] - [Plan Pretax Income]
+PTI Margin := DIVIDE([Pretax Income], [Revenue])
+Marketing Spend := SUM(fact_marketing[marketing_spend])
+New Accounts := SUM(fact_marketing[new_accounts])
+CAC := DIVIDE([Marketing Spend] * 1000000, [New Accounts])
+First Year Contribution := SUM(fact_marketing[first_year_contribution])
+Contribution per Marketing Dollar := DIVIDE([First Year Contribution], [Marketing Spend])
